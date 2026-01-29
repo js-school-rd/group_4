@@ -17,6 +17,7 @@ const categories = [
   { id: 4, name: "Transport", icon: "assets/transport-svgrepo-com.svg" },
   { id: 5, name: "Health", icon: "assets/health-care-love-svgrepo-com.svg" },
   { id: 6, name: "Education", icon: "assets/education-svgrepo-com.svg" },
+  { id: 7, name: "Kids", icon: "assets/kid-svgrepo-com.svg" },
 ];
 
 currentBudgetElement.textContent = currentBudget + "$";
